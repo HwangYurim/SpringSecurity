@@ -1,7 +1,7 @@
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
-
+target/m2e-wtp/web-resources/META-INF/maven/com.sp/security/pom.properties
 ### STS ###
 .apt_generated
 .classpath
